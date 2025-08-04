@@ -30,9 +30,9 @@ Check out my pinned repositories to explore them!
 
 ## 📈 GitHub Stats
 
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishudontula&show_icons=true&theme=radical)
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-Dontula&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishudontula&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Dontula&layout=compact&theme=radical)
 
 ---
 
