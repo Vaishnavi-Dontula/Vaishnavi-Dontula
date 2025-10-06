@@ -38,7 +38,7 @@ Check out my pinned repositories to explore them!
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/vaishnavidontula/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavidontula/)
 - 📧 Email:vaishnavidontula04@gmail.com
 - 🌐 [Portfolio Website](https://vaishnavi-dontula.github.io/Portfolio/)
 
